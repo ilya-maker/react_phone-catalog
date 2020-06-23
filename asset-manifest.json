@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.3ff87166.chunk.css",
-    "main.js": "./static/js/main.36ba345a.chunk.js",
-    "main.js.map": "./static/js/main.36ba345a.chunk.js.map",
+    "main.css": "./static/css/main.00449dd6.chunk.css",
+    "main.js": "./static/js/main.bc19521e.chunk.js",
+    "main.js.map": "./static/js/main.bc19521e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
     "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
-    "static/js/2.0dd5077a.chunk.js": "./static/js/2.0dd5077a.chunk.js",
-    "static/js/2.0dd5077a.chunk.js.map": "./static/js/2.0dd5077a.chunk.js.map",
+    "static/js/2.37dd7947.chunk.js": "./static/js/2.37dd7947.chunk.js",
+    "static/js/2.37dd7947.chunk.js.map": "./static/js/2.37dd7947.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.6f0395d512e7833a628c393f15d8c5db.js": "./precache-manifest.6f0395d512e7833a628c393f15d8c5db.js",
+    "precache-manifest.3d3a688f5276c1d078ddfdbc00b69a8f.js": "./precache-manifest.3d3a688f5276c1d078ddfdbc00b69a8f.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.3ff87166.chunk.css.map": "./static/css/main.3ff87166.chunk.css.map",
-    "static/js/2.0dd5077a.chunk.js.LICENSE.txt": "./static/js/2.0dd5077a.chunk.js.LICENSE.txt",
-    "static/media/Cart.scss": "./static/media/Mont-SemiBold.d41a520b.otf",
+    "static/css/main.00449dd6.chunk.css.map": "./static/css/main.00449dd6.chunk.css.map",
+    "static/js/2.37dd7947.chunk.js.LICENSE.txt": "./static/js/2.37dd7947.chunk.js.LICENSE.txt",
+    "static/media/Cart.scss": "./static/media/Close.70e810f0.svg",
     "static/media/ProductCard.scss": "./static/media/heartBlack.ba064880.svg",
-    "static/media/styleNavByImg.scss": "./static/media/like.35e96039.svg",
+    "static/media/styleProductInfo.scss": "./static/media/like.35e96039.svg",
     "static/media/ProductsPage.scss": "./static/media/up.3c1c483e.svg",
     "static/media/styleBigCarousel.scss": "./static/media/right.67be4a4a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7c3e9311.js",
-    "static/js/2.0dd5077a.chunk.js",
-    "static/css/main.3ff87166.chunk.css",
-    "static/js/main.36ba345a.chunk.js"
+    "static/js/2.37dd7947.chunk.js",
+    "static/css/main.00449dd6.chunk.css",
+    "static/js/main.bc19521e.chunk.js"
   ]
 }
